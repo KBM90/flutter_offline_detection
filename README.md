@@ -65,3 +65,13 @@ Internally uses `NWPathMonitor` to check if the path status is `.satisfied`.
 ## License
 
 MIT
+
+## ☕ Support
+
+If this project helped you, consider buying me a coffee ☕
+
+💼 **OKX Wallet**
+- USDT (TRC20): `TCFDcTTbSKp5WRaMj4jGkJRNgrSzAr33ra`
+- USDC (ERC20): `0x779faf0ed2a549d70e1053ea83d2d991d5f5edcf`
+- BTC (BTC) :   `37C6azvFCgECTvFfEChuZeLw8UNUoUjwd1`
+
