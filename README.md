@@ -11,6 +11,12 @@ Unlike other packages that only check for "network connection" (e.g. Wi-Fi conne
 - 🔋 **Battery Efficient**: No polling. Event-based updates only when status changes.
 - 🛡️ **Platform Support**: Android 21+, iOS 12+.
 
+## Demo
+
+[![Watch Demo](https://img.youtube.com/vi/KPi-bnmLl_w/maxresdefault.jpg)](https://youtu.be/KPi-bnmLl_w)
+
+*Click the image above to watch the demo video*
+
 ## Why detection is better than `connectivity_plus`?
 
 | Feature | `connectivity_plus` | `flutter_offline_detection` |
